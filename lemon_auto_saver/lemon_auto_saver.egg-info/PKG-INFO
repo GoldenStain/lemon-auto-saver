@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: lemon_auto_saver
+Version: 1.0.1
+Summary: A tool for automatic saving of documents in various applications.
+Home-page: https://github.com/GoldenStain/lemon_auto_saver
+Author: 啊米诺斯
+Author-email: 1154330861@qq.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pyautogui
+Requires-Dist: psutil
+Requires-Dist: pywinauto
+Requires-Dist: pygetwindow
+
+# auto-save-app
+
+## 项目简介
+
+对于Office系的软件，无需设置监控窗口，只要在文件窗口进行编辑，就能触发自动保存；
+其他软件要设置监控的窗口，在打开该窗口的情况下，可以触发自动保存。
+
+## 安装
+`pip install lemon_auto_saver`
+
+## 许可证
+本项目采用 MIT 许可证。

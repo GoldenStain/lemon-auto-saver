@@ -1,0 +1,17 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+backend/__init__.py
+backend/auto_save.py
+config/__init__.py
+config/config.json
+config/config.py
+gui/__init__.py
+gui/main_window.py
+lemon_auto_saver.egg-info/PKG-INFO
+lemon_auto_saver.egg-info/SOURCES.txt
+lemon_auto_saver.egg-info/dependency_links.txt
+lemon_auto_saver.egg-info/entry_points.txt
+lemon_auto_saver.egg-info/requires.txt
+lemon_auto_saver.egg-info/top_level.txt
