@@ -4,11 +4,11 @@ setup(
     name='lemon-auto-saver',
     version='1.0.0',
     description='A tool for automatic saving of documents in various applications.',
-    long_description=open('README.md').read(),
+    long_description=open('README.md', 'r', encoding = 'utf-8').read(),
     long_description_content_type='text/markdown',
     author='啊米诺斯',
     author_email='1154330861@qq.com',
-    url='https://github.com/yourusername/lemon-auto-saver',
+    url='https://github.com/GoldenStain/lemon-auto-saver',
     packages=find_packages(),
     include_package_data=True,
     install_requires=[

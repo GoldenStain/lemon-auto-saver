@@ -1,0 +1,2 @@
+[console_scripts]
+lemon-auto-saver = lemon_auto_saver.__main__:main
